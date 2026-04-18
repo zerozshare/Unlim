@@ -30,6 +30,26 @@
     "unlimError": "Unlim Error",
     "hostingErrorToast": "Hosting a server. Stop it first to join.",
     "keyPastedToast": "Key pasted. Press Connect to join.",
-    "inputNotFoundToast": "Couldn't find the input field."
+    "inputNotFoundToast": "Couldn't find the input field.",
+    "publishTitle": "Publish server?",
+    "publishDesc": "Your server will appear on unlim.cc/list so other players can discover it.",
+    "publishYes": "Publish",
+    "publishNo": "Keep private",
+    "copyTooltip": "Copy invite link",
+    "tcp": "TCP",
+    "udp": "UDP",
+    "addTcpPort": "+ Add TCP Port",
+    "addUdpPort": "+ Add UDP Port",
+    "maxPlayers": "Max Players",
+    "portUnlimited": "0 = unlimited",
+    "connecting": "Connecting...",
+    "connectedLabel": "Connected",
+    "connectedToServer": "connected to server",
+    "cancel": "Cancel",
+    "disconnect": "Disconnect",
+    "limit": "Limit",
+    "noLimit": "No limit",
+    "lockLimit": "Lock speed limit",
+    "removePort": "Remove port"
   }
 }

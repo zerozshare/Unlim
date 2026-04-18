@@ -30,6 +30,26 @@
     "unlimError": "Unlim 오류",
     "hostingErrorToast": "서버를 호스팅 중입니다. 참가하려면 먼저 호스트를 중지하세요.",
     "keyPastedToast": "키가 붙여넣기되었습니다. Connect 버튼으로 접속하세요.",
-    "inputNotFoundToast": "입력란을 찾을 수 없습니다."
+    "inputNotFoundToast": "입력란을 찾을 수 없습니다.",
+    "publishTitle": "서버를 공개할까요?",
+    "publishDesc": "unlim.cc/list 에 표시되어 누구나 참가할 수 있습니다.",
+    "publishYes": "공개",
+    "publishNo": "비공개 유지",
+    "copyTooltip": "초대 링크 복사",
+    "tcp": "TCP",
+    "udp": "UDP",
+    "addTcpPort": "+ TCP 포트 추가",
+    "addUdpPort": "+ UDP 포트 추가",
+    "maxPlayers": "최대 플레이어 수",
+    "portUnlimited": "0 = 무제한",
+    "connecting": "접속 중...",
+    "connectedLabel": "접속됨",
+    "connectedToServer": "서버에 접속했습니다",
+    "cancel": "취소",
+    "disconnect": "연결 해제",
+    "limit": "제한",
+    "noLimit": "제한 없음",
+    "lockLimit": "속도 제한 고정",
+    "removePort": "포트 삭제"
   }
 }

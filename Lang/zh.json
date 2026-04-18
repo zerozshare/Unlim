@@ -30,6 +30,26 @@
     "unlimError": "Unlim 错误",
     "hostingErrorToast": "正在托管服务器。加入前请先停止主机。",
     "keyPastedToast": "密钥已粘贴。按 Connect 按钮连接。",
-    "inputNotFoundToast": "未找到输入栏。"
+    "inputNotFoundToast": "未找到输入栏。",
+    "publishTitle": "公开服务器?",
+    "publishDesc": "将在 unlim.cc/list 显示，任何人都可以加入。",
+    "publishYes": "公开",
+    "publishNo": "保持私密",
+    "copyTooltip": "复制邀请链接",
+    "tcp": "TCP",
+    "udp": "UDP",
+    "addTcpPort": "+ 添加 TCP 端口",
+    "addUdpPort": "+ 添加 UDP 端口",
+    "maxPlayers": "最大玩家数",
+    "portUnlimited": "0 = 无限制",
+    "connecting": "连接中...",
+    "connectedLabel": "已连接",
+    "connectedToServer": "已连接到服务器",
+    "cancel": "取消",
+    "disconnect": "断开",
+    "limit": "限制",
+    "noLimit": "无限制",
+    "lockLimit": "锁定速度限制",
+    "removePort": "删除端口"
   }
 }

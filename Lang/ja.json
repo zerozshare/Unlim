@@ -30,6 +30,26 @@
     "unlimError": "Unlim エラー",
     "hostingErrorToast": "サーバーをホスト中です。参加するには先にホストを停止してください。",
     "keyPastedToast": "キーを貼り付けました。Connect で接続してください。",
-    "inputNotFoundToast": "入力欄が見つかりません。"
+    "inputNotFoundToast": "入力欄が見つかりません。",
+    "publishTitle": "サーバーを公開しますか？",
+    "publishDesc": "unlim.cc/list に一覧表示され、誰でも参加できるようになります。",
+    "publishYes": "公開する",
+    "publishNo": "非公開のまま",
+    "copyTooltip": "招待リンクをコピー",
+    "tcp": "TCP",
+    "udp": "UDP",
+    "addTcpPort": "+ TCP ポートを追加",
+    "addUdpPort": "+ UDP ポートを追加",
+    "maxPlayers": "最大プレイヤー数",
+    "portUnlimited": "0 = 無制限",
+    "connecting": "接続中...",
+    "connectedLabel": "接続済み",
+    "connectedToServer": "サーバーに接続しました",
+    "cancel": "キャンセル",
+    "disconnect": "切断",
+    "limit": "上限",
+    "noLimit": "上限なし",
+    "lockLimit": "速度制限をロック",
+    "removePort": "ポートを削除"
   }
 }
