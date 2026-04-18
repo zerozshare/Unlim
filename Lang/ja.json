@@ -32,7 +32,7 @@
     "keyPastedToast": "キーを貼り付けました。Connect で接続してください。",
     "inputNotFoundToast": "入力欄が見つかりません。",
     "publishTitle": "サーバーを公開しますか？",
-    "publishDesc": "unlim.cc/list に一覧表示され、誰でも参加できるようになります。",
+    "publishDesc": "unlim.cc/list に表示され、誰でも参加できるようになります。",
     "publishYes": "公開する",
     "publishNo": "非公開のまま",
     "copyTooltip": "招待リンクをコピー",
