@@ -764,6 +764,26 @@
     "desk_vd_rm_other": "기타 문제: {n}",
     "desk_vd_by_host": "이 컴퓨터",
     "desk_vd_answer_timeout": "30초 안에 응답이 없어 화면을 추가하지 않았습니다.",
-    "desk_vd_answer_none": "응답을 기다리는 화면 요청이 없습니다."
+    "desk_vd_answer_none": "응답을 기다리는 화면 요청이 없습니다.",
+    "desk_vd_host_add": "이 PC에 화면 추가",
+    "desk_vd_host_title": "이 PC에 새 가상 화면",
+    "desk_vd_host_size": "크기",
+    "desk_vd_host_rate": "주사율",
+    "desk_vd_host_place": "배치",
+    "desk_vd_host_auto": "자동",
+    "desk_vd_host_right": "오른쪽",
+    "desk_vd_host_left": "왼쪽",
+    "desk_vd_host_below": "아래",
+    "desk_vd_host_above": "위",
+    "desk_vd_host_create": "추가",
+    "desk_vd_host_added": "추가한 화면",
+    "desk_vd_host_remove": "삭제",
+    "desk_vd_host_unsupported": "이 PC는 가상 화면을 만들 수 없습니다",
+    "desk_vd_host_limit": "추가 화면: 최대 {n}개",
+    "desk_vd_host_limit_pixels": "픽셀 한도예요. 더 작은 크기를 고르세요",
+    "desk_vd_host_bad_size": "이 크기는 쓸 수 없어요",
+    "desk_vd_host_busy": "화면을 바꾸는 중입니다. 잠시 후 다시 시도하세요",
+    "desk_vd_host_conflict": "실제 화면이 움직여서 취소했어요",
+    "desk_vd_host_failed": "화면을 추가하지 못했어요"
   }
 }

@@ -764,6 +764,26 @@
     "desk_vd_rm_other": "Другая проблема: {n}",
     "desk_vd_by_host": "этот компьютер",
     "desk_vd_answer_timeout": "Нет ответа за 30 с, экран не добавлен.",
-    "desk_vd_answer_none": "Нет запросов экрана, ожидающих ответа."
+    "desk_vd_answer_none": "Нет запросов экрана, ожидающих ответа.",
+    "desk_vd_host_add": "Добавить экран на этот компьютер",
+    "desk_vd_host_title": "Новый виртуальный экран на этом компьютере",
+    "desk_vd_host_size": "Размер",
+    "desk_vd_host_rate": "Частота",
+    "desk_vd_host_place": "Размещение",
+    "desk_vd_host_auto": "Авто",
+    "desk_vd_host_right": "Справа",
+    "desk_vd_host_left": "Слева",
+    "desk_vd_host_below": "Снизу",
+    "desk_vd_host_above": "Сверху",
+    "desk_vd_host_create": "Добавить",
+    "desk_vd_host_added": "Добавленные экраны",
+    "desk_vd_host_remove": "Удалить",
+    "desk_vd_host_unsupported": "Этот компьютер не может создавать виртуальные экраны",
+    "desk_vd_host_limit": "Добавленные экраны: не больше {n}",
+    "desk_vd_host_limit_pixels": "Предел пикселей: выберите меньше",
+    "desk_vd_host_bad_size": "Этот размер нельзя использовать",
+    "desk_vd_host_busy": "Экраны ещё меняются: попробуйте чуть позже",
+    "desk_vd_host_conflict": "Экраны сдвинулись, отменено",
+    "desk_vd_host_failed": "Не удалось добавить экран"
   }
 }

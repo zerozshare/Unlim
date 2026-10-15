@@ -764,6 +764,26 @@
     "desk_vd_rm_other": "Outro problema: {n}",
     "desk_vd_by_host": "este computador",
     "desk_vd_answer_timeout": "Sem resposta em 30 s, a tela não foi adicionada.",
-    "desk_vd_answer_none": "Nenhum pedido de tela aguarda resposta."
+    "desk_vd_answer_none": "Nenhum pedido de tela aguarda resposta.",
+    "desk_vd_host_add": "Adicionar uma tela a este computador",
+    "desk_vd_host_title": "Nova tela virtual neste computador",
+    "desk_vd_host_size": "Tamanho",
+    "desk_vd_host_rate": "Atualização",
+    "desk_vd_host_place": "Posição",
+    "desk_vd_host_auto": "Automática",
+    "desk_vd_host_right": "Direita",
+    "desk_vd_host_left": "Esquerda",
+    "desk_vd_host_below": "Abaixo",
+    "desk_vd_host_above": "Acima",
+    "desk_vd_host_create": "Adicionar",
+    "desk_vd_host_added": "Telas adicionadas",
+    "desk_vd_host_remove": "Remover",
+    "desk_vd_host_unsupported": "Este computador não pode criar telas virtuais",
+    "desk_vd_host_limit": "Telas adicionadas: no máximo {n}",
+    "desk_vd_host_limit_pixels": "Limite de pixels: escolha menor",
+    "desk_vd_host_bad_size": "Este tamanho não pode ser usado",
+    "desk_vd_host_busy": "Ainda mudando as telas: tente de novo em instantes",
+    "desk_vd_host_conflict": "As telas se moveram; foi desfeito",
+    "desk_vd_host_failed": "Não foi possível adicionar a tela"
   }
 }

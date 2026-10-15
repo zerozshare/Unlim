@@ -764,6 +764,26 @@
     "desk_vd_rm_other": "Inny problem: {n}",
     "desk_vd_by_host": "ten komputer",
     "desk_vd_answer_timeout": "Brak odpowiedzi w 30 s, więc ekran nie został dodany.",
-    "desk_vd_answer_none": "Żadna prośba o ekran nie czeka na odpowiedź."
+    "desk_vd_answer_none": "Żadna prośba o ekran nie czeka na odpowiedź.",
+    "desk_vd_host_add": "Dodaj ekran do tego komputera",
+    "desk_vd_host_title": "Nowy ekran wirtualny na tym komputerze",
+    "desk_vd_host_size": "Rozmiar",
+    "desk_vd_host_rate": "Odświeżanie",
+    "desk_vd_host_place": "Położenie",
+    "desk_vd_host_auto": "Automatycznie",
+    "desk_vd_host_right": "Po prawej",
+    "desk_vd_host_left": "Po lewej",
+    "desk_vd_host_below": "Poniżej",
+    "desk_vd_host_above": "Powyżej",
+    "desk_vd_host_create": "Dodaj",
+    "desk_vd_host_added": "Dodane ekrany",
+    "desk_vd_host_remove": "Usuń",
+    "desk_vd_host_unsupported": "Ten komputer nie może tworzyć ekranów wirtualnych",
+    "desk_vd_host_limit": "Dodane ekrany: maks. {n}",
+    "desk_vd_host_limit_pixels": "Limit pikseli: wybierz mniejszy",
+    "desk_vd_host_bad_size": "Tego rozmiaru nie można użyć",
+    "desk_vd_host_busy": "Ekrany wciąż się zmieniają: spróbuj za chwilę",
+    "desk_vd_host_conflict": "Ekrany się przesunęły, cofnięto",
+    "desk_vd_host_failed": "Nie udało się dodać ekranu"
   }
 }

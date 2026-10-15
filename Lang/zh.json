@@ -764,6 +764,26 @@
     "desk_vd_rm_other": "其他问题：{n}",
     "desk_vd_by_host": "本机",
     "desk_vd_answer_timeout": "30 秒内未回答，屏幕未添加。",
-    "desk_vd_answer_none": "没有等待回答的屏幕请求。"
+    "desk_vd_answer_none": "没有等待回答的屏幕请求。",
+    "desk_vd_host_add": "为这台电脑添加屏幕",
+    "desk_vd_host_title": "在这台电脑上新建虚拟屏幕",
+    "desk_vd_host_size": "大小",
+    "desk_vd_host_rate": "刷新率",
+    "desk_vd_host_place": "位置",
+    "desk_vd_host_auto": "自动",
+    "desk_vd_host_right": "右侧",
+    "desk_vd_host_left": "左侧",
+    "desk_vd_host_below": "下方",
+    "desk_vd_host_above": "上方",
+    "desk_vd_host_create": "添加",
+    "desk_vd_host_added": "已添加的屏幕",
+    "desk_vd_host_remove": "移除",
+    "desk_vd_host_unsupported": "这台电脑无法创建虚拟屏幕",
+    "desk_vd_host_limit": "添加的屏幕：最多 {n} 个",
+    "desk_vd_host_limit_pixels": "已达像素上限，请选更小的尺寸",
+    "desk_vd_host_bad_size": "无法使用此尺寸",
+    "desk_vd_host_busy": "屏幕正在变更，请稍后再试",
+    "desk_vd_host_conflict": "实体屏幕有变动，已撤销",
+    "desk_vd_host_failed": "无法添加屏幕"
   }
 }

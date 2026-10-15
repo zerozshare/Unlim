@@ -764,6 +764,26 @@
     "desk_vd_rm_other": "Інша проблема: {n}",
     "desk_vd_by_host": "цей комп’ютер",
     "desk_vd_answer_timeout": "Немає відповіді за 30 с, екран не додано.",
-    "desk_vd_answer_none": "Немає запитів екрана, що чекають відповіді."
+    "desk_vd_answer_none": "Немає запитів екрана, що чекають відповіді.",
+    "desk_vd_host_add": "Додати екран на цей комп’ютер",
+    "desk_vd_host_title": "Новий віртуальний екран на цьому комп’ютері",
+    "desk_vd_host_size": "Розмір",
+    "desk_vd_host_rate": "Частота",
+    "desk_vd_host_place": "Розміщення",
+    "desk_vd_host_auto": "Авто",
+    "desk_vd_host_right": "Праворуч",
+    "desk_vd_host_left": "Ліворуч",
+    "desk_vd_host_below": "Знизу",
+    "desk_vd_host_above": "Згори",
+    "desk_vd_host_create": "Додати",
+    "desk_vd_host_added": "Додані екрани",
+    "desk_vd_host_remove": "Видалити",
+    "desk_vd_host_unsupported": "Цей комп’ютер не може створювати віртуальні екрани",
+    "desk_vd_host_limit": "Додані екрани: не більше {n}",
+    "desk_vd_host_limit_pixels": "Межа пікселів: виберіть менший",
+    "desk_vd_host_bad_size": "Цей розмір не можна використати",
+    "desk_vd_host_busy": "Екрани ще змінюються: спробуйте трохи пізніше",
+    "desk_vd_host_conflict": "Екрани зсунулися, скасовано",
+    "desk_vd_host_failed": "Не вдалося додати екран"
   }
 }

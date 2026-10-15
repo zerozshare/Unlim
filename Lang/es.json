@@ -764,6 +764,26 @@
     "desk_vd_rm_other": "Otro problema: {n}",
     "desk_vd_by_host": "este equipo",
     "desk_vd_answer_timeout": "Sin respuesta en 30 s; la pantalla no se añadió.",
-    "desk_vd_answer_none": "Ninguna solicitud de pantalla espera respuesta."
+    "desk_vd_answer_none": "Ninguna solicitud de pantalla espera respuesta.",
+    "desk_vd_host_add": "Añadir una pantalla a este equipo",
+    "desk_vd_host_title": "Nueva pantalla virtual en este equipo",
+    "desk_vd_host_size": "Tamaño",
+    "desk_vd_host_rate": "Frecuencia",
+    "desk_vd_host_place": "Posición",
+    "desk_vd_host_auto": "Automática",
+    "desk_vd_host_right": "Derecha",
+    "desk_vd_host_left": "Izquierda",
+    "desk_vd_host_below": "Abajo",
+    "desk_vd_host_above": "Arriba",
+    "desk_vd_host_create": "Añadir",
+    "desk_vd_host_added": "Pantallas añadidas",
+    "desk_vd_host_remove": "Quitar",
+    "desk_vd_host_unsupported": "Este equipo no puede crear pantallas virtuales",
+    "desk_vd_host_limit": "Pantallas añadidas: {n} como máximo",
+    "desk_vd_host_limit_pixels": "Límite de píxeles: elige uno menor",
+    "desk_vd_host_bad_size": "Este tamaño no se puede usar",
+    "desk_vd_host_busy": "Aún se están cambiando las pantallas: inténtalo en un momento",
+    "desk_vd_host_conflict": "Las pantallas se movieron; se deshizo",
+    "desk_vd_host_failed": "No se pudo añadir la pantalla"
   }
 }

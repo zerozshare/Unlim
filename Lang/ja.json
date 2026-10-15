@@ -764,6 +764,26 @@
     "desk_vd_rm_other": "その他の問題: {n}",
     "desk_vd_by_host": "このPC",
     "desk_vd_answer_timeout": "30 秒以内に答えが無かったので、画面は追加されませんでした。",
-    "desk_vd_answer_none": "答えを待っている画面の要求はありません。"
+    "desk_vd_answer_none": "答えを待っている画面の要求はありません。",
+    "desk_vd_host_add": "このPCに画面を追加",
+    "desk_vd_host_title": "このPCに仮想画面を追加",
+    "desk_vd_host_size": "サイズ",
+    "desk_vd_host_rate": "リフレッシュレート",
+    "desk_vd_host_place": "配置",
+    "desk_vd_host_auto": "自動",
+    "desk_vd_host_right": "右",
+    "desk_vd_host_left": "左",
+    "desk_vd_host_below": "下",
+    "desk_vd_host_above": "上",
+    "desk_vd_host_create": "追加",
+    "desk_vd_host_added": "追加した画面",
+    "desk_vd_host_remove": "削除",
+    "desk_vd_host_unsupported": "このPCでは仮想画面を作れません",
+    "desk_vd_host_limit": "追加画面: 最大 {n} 枚",
+    "desk_vd_host_limit_pixels": "画素数の上限です。小さいサイズを選んでください",
+    "desk_vd_host_bad_size": "このサイズは使えません",
+    "desk_vd_host_busy": "画面を変更中です。少し待ってからもう一度",
+    "desk_vd_host_conflict": "実画面が動いたので取り消しました",
+    "desk_vd_host_failed": "画面を追加できませんでした"
   }
 }

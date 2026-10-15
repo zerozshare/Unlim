@@ -764,6 +764,26 @@
     "desk_vd_rm_other": "Other problem: {n}",
     "desk_vd_by_host": "this computer",
     "desk_vd_answer_timeout": "No answer in 30 s, so the screen was not added.",
-    "desk_vd_answer_none": "No screen request is waiting for an answer."
+    "desk_vd_answer_none": "No screen request is waiting for an answer.",
+    "desk_vd_host_add": "Add a screen to this computer",
+    "desk_vd_host_title": "New virtual screen on this computer",
+    "desk_vd_host_size": "Size",
+    "desk_vd_host_rate": "Refresh rate",
+    "desk_vd_host_place": "Placement",
+    "desk_vd_host_auto": "Auto",
+    "desk_vd_host_right": "Right",
+    "desk_vd_host_left": "Left",
+    "desk_vd_host_below": "Below",
+    "desk_vd_host_above": "Above",
+    "desk_vd_host_create": "Add",
+    "desk_vd_host_added": "Added screens",
+    "desk_vd_host_remove": "Remove",
+    "desk_vd_host_unsupported": "This computer cannot make virtual screens",
+    "desk_vd_host_limit": "Added screens: {n} at most",
+    "desk_vd_host_limit_pixels": "Pixel limit reached: pick a smaller size",
+    "desk_vd_host_bad_size": "This size cannot be used",
+    "desk_vd_host_busy": "Still changing screens: try again in a moment",
+    "desk_vd_host_conflict": "Screens moved, so it was undone",
+    "desk_vd_host_failed": "Could not add the screen"
   }
 }

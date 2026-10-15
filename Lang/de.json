@@ -764,6 +764,26 @@
     "desk_vd_rm_other": "Anderes Problem: {n}",
     "desk_vd_by_host": "dieser Computer",
     "desk_vd_answer_timeout": "Keine Antwort in 30 s, der Bildschirm wurde nicht hinzugefügt.",
-    "desk_vd_answer_none": "Keine Bildschirmanfrage wartet auf eine Antwort."
+    "desk_vd_answer_none": "Keine Bildschirmanfrage wartet auf eine Antwort.",
+    "desk_vd_host_add": "Bildschirm zu diesem Computer hinzufügen",
+    "desk_vd_host_title": "Neuer virtueller Bildschirm auf diesem Computer",
+    "desk_vd_host_size": "Größe",
+    "desk_vd_host_rate": "Bildrate",
+    "desk_vd_host_place": "Position",
+    "desk_vd_host_auto": "Automatisch",
+    "desk_vd_host_right": "Rechts",
+    "desk_vd_host_left": "Links",
+    "desk_vd_host_below": "Unten",
+    "desk_vd_host_above": "Oben",
+    "desk_vd_host_create": "Hinzufügen",
+    "desk_vd_host_added": "Hinzugefügte Bildschirme",
+    "desk_vd_host_remove": "Entfernen",
+    "desk_vd_host_unsupported": "Dieser Computer kann keine virtuellen Bildschirme erstellen",
+    "desk_vd_host_limit": "Hinzugefügte Bildschirme: höchstens {n}",
+    "desk_vd_host_limit_pixels": "Pixel-Grenze erreicht: kleiner wählen",
+    "desk_vd_host_bad_size": "Diese Größe geht nicht",
+    "desk_vd_host_busy": "Bildschirme werden noch geändert: gleich noch einmal versuchen",
+    "desk_vd_host_conflict": "Bildschirme verschoben, rückgängig",
+    "desk_vd_host_failed": "Bildschirm nicht hinzugefügt"
   }
 }
