@@ -989,7 +989,7 @@
     "ud_call_no_mic": "マイクが見つかりません",
     "ud_call_default": "既定",
     "ud_call_ask": "{name} が通話に参加希望",
-    "ud_call_allow": "許可",
+    "ud_call_allow": "今回だけ許可",
     "ud_call_allow_session": "接続中は許可",
     "ud_call_deny": "拒否",
     "desk_sound_title": "PCの音声",

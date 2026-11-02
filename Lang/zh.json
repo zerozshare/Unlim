@@ -989,7 +989,7 @@
     "ud_call_no_mic": "找不到麦克风",
     "ud_call_default": "默认",
     "ud_call_ask": "{name} 想加入通话",
-    "ud_call_allow": "允许",
+    "ud_call_allow": "仅允许一次",
     "ud_call_allow_session": "连接期间允许",
     "ud_call_deny": "拒绝",
     "desk_sound_title": "电脑声音",

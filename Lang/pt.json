@@ -989,7 +989,7 @@
     "ud_call_no_mic": "Nenhum microfone",
     "ud_call_default": "Padrão",
     "ud_call_ask": "{name} quer entrar",
-    "ud_call_allow": "Permitir",
+    "ud_call_allow": "Permitir uma vez",
     "ud_call_allow_session": "Enquanto conectado",
     "ud_call_deny": "Recusar",
     "desk_sound_title": "Som do PC",

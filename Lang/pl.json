@@ -989,7 +989,7 @@
     "ud_call_no_mic": "Nie znaleziono mikrofonu",
     "ud_call_default": "Domyślne",
     "ud_call_ask": "{name} chce dołączyć",
-    "ud_call_allow": "Zezwól",
+    "ud_call_allow": "Zezwól jednorazowo",
     "ud_call_allow_session": "Gdy połączony",
     "ud_call_deny": "Odmów",
     "desk_sound_title": "Dźwięk komputera",

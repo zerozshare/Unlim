@@ -989,7 +989,7 @@
     "ud_call_no_mic": "Микрофон не найден",
     "ud_call_default": "По умолчанию",
     "ud_call_ask": "{name} просится в звонок",
-    "ud_call_allow": "Разрешить",
+    "ud_call_allow": "Разрешить один раз",
     "ud_call_allow_session": "Пока на связи",
     "ud_call_deny": "Отказать",
     "desk_sound_title": "Звук компьютера",

@@ -989,7 +989,7 @@
     "ud_call_no_mic": "No se encontró micrófono",
     "ud_call_default": "Predeterminado",
     "ud_call_ask": "{name} quiere unirse",
-    "ud_call_allow": "Permitir",
+    "ud_call_allow": "Permitir una vez",
     "ud_call_allow_session": "Mientras conectado",
     "ud_call_deny": "Rechazar",
     "desk_sound_title": "Sonido del PC",
