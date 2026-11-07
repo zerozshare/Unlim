@@ -158,7 +158,7 @@
     "ud_desk_popped": "正在单独的窗口中显示",
     "ud_desk_front": "显示窗口",
     "ud_desk_monitor": "在本机的哪个显示器上打开",
-    "ud_desk_mon": "显示器 {n}",
+    "ud_desk_mon": "本机显示器 {n}",
     "ud_desk_files": "文件",
     "ud_desk_files_none": "没有等待中的文件。发给你的文件会显示在这里。",
     "ud_desk_drop_here": "拖放到这里，发送到正在查看的电脑",
@@ -1060,6 +1060,20 @@
     "presets_deny_confirm": "列表为空。应用到密钥后会拒绝所有设备。是否保存？",
     "presets_snapshot": "将副本应用到密钥。之后编辑预设不会更改该副本。",
     "presets_mismatch": "未能确认设备限制，因此未复制邀请。请检查新密钥是否已撤销。",
-    "presets_active": "已应用"
+    "presets_active": "已应用",
+    "idd_title": "虚拟显示驱动程序",
+    "idd_install": "安装",
+    "idd_upgrade": "更新",
+    "idd_uninstall": "移除",
+    "idd_admin": "需要管理员批准。",
+    "idd_prepared": "命令已复制。请粘贴到以管理员身份打开的PowerShell中。",
+    "idd_cancelled": "已取消。",
+    "idd_failed": "无法准备驱动程序维护。",
+    "idd_unavailable": "此版本没有经过验证的虚拟显示驱动程序。",
+    "idd_choose_proof": "选择已安装Unlim驱动程序的原始签名版本证明",
+    "idd_proof_filter": "签名版本证明",
+    "idd_admin_open": "请以管理员身份打开PowerShell以继续。",
+    "idd_admin_detail": "Windows将请求管理员批准。请将复制的命令粘贴到该窗口中。Unlim会验证已签名的版本，并在更改驱动程序前再次确认。请先关闭虚拟显示器。可能需要重新启动。",
+    "idd_copy": "复制命令"
   }
 }

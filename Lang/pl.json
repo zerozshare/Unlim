@@ -158,7 +158,7 @@
     "ud_desk_popped": "Wyświetlane w osobnym oknie",
     "ud_desk_front": "Przenieś na wierzch",
     "ud_desk_monitor": "Monitor tego komputera, na którym otworzyć",
-    "ud_desk_mon": "Monitor {n}",
+    "ud_desk_mon": "Monitor {n} tego komputera",
     "ud_desk_files": "Pliki",
     "ud_desk_files_none": "Brak oczekujących plików. Wysłane do ciebie pliki pojawią się tutaj.",
     "ud_desk_drop_here": "Upuść tutaj, aby wysłać do oglądanego komputera",
@@ -1060,6 +1060,20 @@
     "presets_deny_confirm": "Lista jest pusta. Jej zastosowanie odrzuci wszystkie urządzenia. Zapisać?",
     "presets_snapshot": "Do klucza stosowana jest kopia. Późniejsze zmiany szablonu jej nie zmieniają.",
     "presets_mismatch": "Nie potwierdzono ograniczenia. Nie skopiowano zaproszenia; sprawdź cofnięcie nowego klucza.",
-    "presets_active": "Zastosowano"
+    "presets_active": "Zastosowano",
+    "idd_title": "Sterownik ekranu wirtualnego",
+    "idd_install": "Zainstaluj",
+    "idd_upgrade": "Aktualizuj",
+    "idd_uninstall": "Usuń",
+    "idd_admin": "Wymagana jest zgoda administratora.",
+    "idd_prepared": "Polecenie skopiowano. Wklej je w PowerShell uruchomionym jako administrator.",
+    "idd_cancelled": "Anulowano.",
+    "idd_failed": "Nie można przygotować konserwacji sterownika.",
+    "idd_unavailable": "Ta wersja nie zawiera zweryfikowanego sterownika ekranu wirtualnego.",
+    "idd_choose_proof": "Wybierz oryginalne podpisane potwierdzenie wersji zainstalowanego sterownika Unlim",
+    "idd_proof_filter": "Podpisane potwierdzenie wersji",
+    "idd_admin_open": "Aby kontynuować, otwórz PowerShell jako administrator.",
+    "idd_admin_detail": "Windows poprosi o zgodę administratora. Wklej skopiowane polecenie w tym oknie. Unlim sprawdza podpisaną wersję i ponownie pyta przed zmianą sterownika. Najpierw zamknij ekrany wirtualne. Może być wymagane ponowne uruchomienie.",
+    "idd_copy": "Kopiuj polecenie"
   }
 }

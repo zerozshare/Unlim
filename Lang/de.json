@@ -158,7 +158,7 @@
     "ud_desk_popped": "Wird in einem eigenen Fenster angezeigt",
     "ud_desk_front": "In den Vordergrund",
     "ud_desk_monitor": "Auf welchem Monitor dieses Computers öffnen",
-    "ud_desk_mon": "Monitor {n}",
+    "ud_desk_mon": "Monitor {n} dieses Computers",
     "ud_desk_files": "Dateien",
     "ud_desk_files_none": "Keine wartenden Dateien. An dich gesendete Dateien erscheinen hier.",
     "ud_desk_drop_here": "Hier ablegen, um es an den angezeigten Computer zu senden",
@@ -1060,6 +1060,20 @@
     "presets_deny_confirm": "Die Liste ist leer. Bei Anwendung werden alle Geräte abgewiesen. Speichern?",
     "presets_snapshot": "Eine Kopie wird auf den Schlüssel angewendet. Spätere Änderungen wirken sich nicht darauf aus.",
     "presets_mismatch": "Beschränkung nicht bestätigt. Einladung nicht kopiert; prüfe, ob der neue Schlüssel widerrufen wurde.",
-    "presets_active": "Angewendet"
+    "presets_active": "Angewendet",
+    "idd_title": "Virtueller Bildschirmtreiber",
+    "idd_install": "Installieren",
+    "idd_upgrade": "Aktualisieren",
+    "idd_uninstall": "Entfernen",
+    "idd_admin": "Eine Administratorfreigabe ist erforderlich.",
+    "idd_prepared": "Befehl kopiert. In eine als Administrator geöffnete PowerShell einfügen.",
+    "idd_cancelled": "Abgebrochen.",
+    "idd_failed": "Die Treiberwartung konnte nicht vorbereitet werden.",
+    "idd_unavailable": "Diese Version enthält keinen verifizierten virtuellen Bildschirmtreiber.",
+    "idd_choose_proof": "Originalen signierten Versionsnachweis des installierten Unlim-Treibers auswählen",
+    "idd_proof_filter": "Signierter Versionsnachweis",
+    "idd_admin_open": "Zum Fortfahren PowerShell als Administrator öffnen.",
+    "idd_admin_detail": "Windows fordert die Administratorfreigabe an. Den kopierten Befehl in dieses Fenster einfügen. Unlim prüft die signierte Version und fragt vor der Treiberänderung erneut nach. Virtuelle Bildschirme vorher schließen. Ein Neustart kann erforderlich sein.",
+    "idd_copy": "Befehl kopieren"
   }
 }

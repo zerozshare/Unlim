@@ -158,7 +158,7 @@
     "ud_desk_popped": "別ウィンドウで表示中",
     "ud_desk_front": "前面に表示",
     "ud_desk_monitor": "開くモニター (このPC)",
-    "ud_desk_mon": "モニター {n}",
+    "ud_desk_mon": "このPCのモニター {n}",
     "ud_desk_files": "ファイル",
     "ud_desk_files_none": "待っているファイルはありません。送られたファイルはここに出ます。",
     "ud_desk_drop_here": "ここに落とすと、見ているコンピューターに送ります",
@@ -1060,6 +1060,20 @@
     "presets_deny_confirm": "一覧が空です。キーへ適用すると全端末が接続できなくなります。保存しますか？",
     "presets_snapshot": "キーには設定のコピーを適用します。後からプリセットを編集しても変わりません。",
     "presets_mismatch": "端末制限を確認できなかったため招待をコピーしませんでした。作成されたキーが取り消されたか確認してください。",
-    "presets_active": "適用済み"
+    "presets_active": "適用済み",
+    "idd_title": "仮想ディスプレイドライバー",
+    "idd_install": "インストール",
+    "idd_upgrade": "更新",
+    "idd_uninstall": "削除",
+    "idd_admin": "管理者の承認が必要です。",
+    "idd_prepared": "コマンドをコピーしました。管理者として開いたPowerShellに貼り付けてください。",
+    "idd_cancelled": "キャンセルしました。",
+    "idd_failed": "ドライバー操作の準備ができませんでした。",
+    "idd_unavailable": "このリリースには検証済みの仮想ディスプレイドライバーがありません。",
+    "idd_choose_proof": "導入済みUnlimドライバーの元の署名付きリリース証明を選択",
+    "idd_proof_filter": "署名付きリリース証明",
+    "idd_admin_open": "続行するにはPowerShellを管理者として開いてください。",
+    "idd_admin_detail": "Windowsで管理者の承認を求められます。そのウィンドウにコピーしたコマンドを貼り付けてください。Unlimは署名付きリリースを検証し、ドライバーの変更前に再確認します。先に仮想ディスプレイを閉じてください。再起動が必要な場合があります。",
+    "idd_copy": "コマンドをコピー"
   }
 }

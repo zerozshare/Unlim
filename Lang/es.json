@@ -158,7 +158,7 @@
     "ud_desk_popped": "Se muestra en otra ventana",
     "ud_desk_front": "Traer al frente",
     "ud_desk_monitor": "Monitor de este equipo donde abrirla",
-    "ud_desk_mon": "Monitor {n}",
+    "ud_desk_mon": "Monitor {n} de este equipo",
     "ud_desk_files": "Archivos",
     "ud_desk_files_none": "No hay archivos en espera. Los archivos que te envíen aparecerán aquí.",
     "ud_desk_drop_here": "Suelta aquí para enviarlo al equipo que estás viendo",
@@ -1060,6 +1060,20 @@
     "presets_deny_confirm": "La lista está vacía. Al aplicarla se rechazarán todos los dispositivos. ¿Guardar?",
     "presets_snapshot": "Se aplica una copia a la clave. Los cambios posteriores no la modifican.",
     "presets_mismatch": "No se confirmó la restricción. No se copió la invitación; comprueba que se revocó la clave nueva.",
-    "presets_active": "Aplicado"
+    "presets_active": "Aplicado",
+    "idd_title": "Controlador de pantalla virtual",
+    "idd_install": "Instalar",
+    "idd_upgrade": "Actualizar",
+    "idd_uninstall": "Eliminar",
+    "idd_admin": "Se requiere aprobación de administrador.",
+    "idd_prepared": "Comando copiado. Pégalo en PowerShell abierto como administrador.",
+    "idd_cancelled": "Cancelado.",
+    "idd_failed": "No se pudo preparar el mantenimiento del controlador.",
+    "idd_unavailable": "Esta versión no incluye un controlador de pantalla virtual verificado.",
+    "idd_choose_proof": "Elige la prueba original firmada de la versión del controlador Unlim instalado",
+    "idd_proof_filter": "Prueba de versión firmada",
+    "idd_admin_open": "Abre PowerShell como administrador para continuar.",
+    "idd_admin_detail": "Windows solicitará la aprobación de administrador. Pega el comando copiado en esa ventana. Unlim verifica la versión firmada y pide confirmación antes de cambiar el controlador. Cierra primero las pantallas virtuales. Puede ser necesario reiniciar.",
+    "idd_copy": "Copiar comando"
   }
 }

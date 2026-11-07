@@ -158,7 +158,7 @@
     "ud_desk_popped": "Exibindo em outra janela",
     "ud_desk_front": "Trazer para a frente",
     "ud_desk_monitor": "Monitor deste computador onde abrir",
-    "ud_desk_mon": "Monitor {n}",
+    "ud_desk_mon": "Monitor {n} deste computador",
     "ud_desk_files": "Arquivos",
     "ud_desk_files_none": "Nenhum arquivo aguardando. Os arquivos enviados a você aparecem aqui.",
     "ud_desk_drop_here": "Solte aqui para enviar ao computador que você está vendo",
@@ -1060,6 +1060,20 @@
     "presets_deny_confirm": "A lista está vazia. Aplicá-la a uma chave irá recusar todos os dispositivos. Guardar?",
     "presets_snapshot": "É aplicada uma cópia à chave. Edições posteriores não a alteram.",
     "presets_mismatch": "A restrição não foi confirmada. O convite não foi copiado; verifique se a nova chave foi revogada.",
-    "presets_active": "Aplicado"
+    "presets_active": "Aplicado",
+    "idd_title": "Driver de tela virtual",
+    "idd_install": "Instalar",
+    "idd_upgrade": "Atualizar",
+    "idd_uninstall": "Remover",
+    "idd_admin": "É necessária a aprovação do administrador.",
+    "idd_prepared": "Comando copiado. Cole no PowerShell aberto como administrador.",
+    "idd_cancelled": "Cancelado.",
+    "idd_failed": "Não foi possível preparar a manutenção do driver.",
+    "idd_unavailable": "Esta versão não inclui um driver de tela virtual verificado.",
+    "idd_choose_proof": "Escolha a prova original assinada da versão do driver Unlim instalado",
+    "idd_proof_filter": "Prova de versão assinada",
+    "idd_admin_open": "Abra o PowerShell como administrador para continuar.",
+    "idd_admin_detail": "O Windows solicitará a aprovação do administrador. Cole o comando copiado nessa janela. O Unlim verifica a versão assinada e pede confirmação antes de alterar o driver. Feche as telas virtuais primeiro. Pode ser necessário reiniciar.",
+    "idd_copy": "Copiar comando"
   }
 }

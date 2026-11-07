@@ -158,7 +158,7 @@
     "ud_desk_popped": "Showing in a separate window",
     "ud_desk_front": "Bring to front",
     "ud_desk_monitor": "Open on this computer's monitor",
-    "ud_desk_mon": "Monitor {n}",
+    "ud_desk_mon": "This computer's monitor {n}",
     "ud_desk_files": "Files",
     "ud_desk_files_none": "No files waiting. Files sent to you show up here.",
     "ud_desk_drop_here": "Drop to send to the computer you are watching",
@@ -1060,6 +1060,20 @@
     "presets_deny_confirm": "This list is empty. Applying it to a key will deny every device. Save it?",
     "presets_snapshot": "A copy is applied to the key. Later preset edits do not change it.",
     "presets_mismatch": "The restriction was not confirmed. The invite was not copied; check that the new key was revoked.",
-    "presets_active": "Applied"
+    "presets_active": "Applied",
+    "idd_title": "Virtual display driver",
+    "idd_install": "Install",
+    "idd_upgrade": "Update",
+    "idd_uninstall": "Remove",
+    "idd_admin": "Administrator approval is required.",
+    "idd_prepared": "Command copied. Paste it into PowerShell opened as administrator.",
+    "idd_cancelled": "Cancelled.",
+    "idd_failed": "Unable to prepare driver maintenance.",
+    "idd_unavailable": "This release has no verified virtual display driver.",
+    "idd_choose_proof": "Choose the original signed release proof for the installed Unlim driver",
+    "idd_proof_filter": "Signed release proof",
+    "idd_admin_open": "Open PowerShell as administrator to continue.",
+    "idd_admin_detail": "Windows will request administrator approval. Paste the copied command into that window. Unlim checks the signed release and asks again before changing the driver. Close virtual displays first. A restart may be required.",
+    "idd_copy": "Copy command"
   }
 }
